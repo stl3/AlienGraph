@@ -13,7 +13,7 @@ author: aGuyOverThere
 
 ## Overview
 
-- **Source**:  [[EBOscientistA_reddit_post.pdf]]
+- **Source**:  [[EBOscientistA Reddit Post 7-5-23.pdf]]
 - **Topic**: U.S. Government Program to study Exo-Biospheric-Organisms (EBO)
 - **Author**: [[EBOscientistA]]
 - **Validity**: #Work-In-Progress
@@ -26,6 +26,9 @@ Ad-hoc efforts to understand the credibility and technical validity of the claim
 
 - [r/molecularbiology debunking](https://www.reddit.com/r/molecularbiology/comments/14sbapm/can_any_of_you_debunk_this_possible_offplanet/)
 - [r/aliens skepticism](https://www.reddit.com/r/aliens/comments/14sdom8/ebo_scientist_skepticism_thread/?utm_source=share&utm_medium=web2x&context=3)
+
+[[Gary Nolan]] has weighed in on the post detailing how efforts should be focused on professional analysis of claims: https://www.reddit.com/r/aliens/comments/14rp7w9/comment/jqy45xa/
+
 
 ## Claims and Assertions
 

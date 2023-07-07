@@ -17,6 +17,8 @@ author:
 - **Author**: the name/individual/organization that provided the evidence
 - **Date First Seen**: Date evidence was first enumerated
 - **Classification**: [#photo, #video, #document, #webpage, #other]
+- **Status:** [#verified, #unverified, #Work-In-Progress]
+- **Confidence of non-human/earth Origin:** []
 
 ## Description
 

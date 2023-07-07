@@ -16,7 +16,6 @@ author:
 - **Source**: (reddit post, FOIA, declassification, leak, etc.)
 - **Topic**:
 - **Author**: the author of the intelligence or unknown
-- **Validity**: [Valid, Invalid, Work-In-Progress]
 - **Link/s**:
 
 ## Summary

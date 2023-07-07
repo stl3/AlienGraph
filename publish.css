@@ -560,6 +560,7 @@ thead {
     border: none;
     box-shadow: none;
     background-color: transparent;
+    outline: var(--text-accent) solid 1px;
 }
 
 .outline-view-outer .collapsible-item-self.mod-active {
