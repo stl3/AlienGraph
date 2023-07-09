@@ -1,49 +1,70 @@
-# AlienGraph
+# Alien Graph
 
-A public facing Obsidian repository for non-earth originating research and analysis.
+<img src="https://publish-01.obsidian.md/access/1c31a6f93f82a49b0a9eb31193d6cdec/_images/site_image_2.png" style="border:1px solid #000000; border-radius: 10px">
 
-https://publish.obsidian.md/aliengraph
+<center>
+<strong>
+<p style="font-size:120%">
+An Obsidian repository for non-earth originating research and analysis.
+</p>
+</strong>
+</center>
 
-## Why
+## Tenets
 
-The information, posts, intelligence, claims, events, and persons involved in the overall topic/s regarding non-earth originating species, technology, and other is disorganized with a significant amount of tribal knowledge and technical expertise being lost to the public. Much has happened in the way of government admission, acknowledgement, and open source intelligence. Methods and practices in how to aggregate, analyze, and present this data should be conducted is a more streamlined and professional manner in order to garner more credence and crowd-source content to analyze and validate at scale.
+- All content added will be 100% Open Source and can be freely replicated by any party.
+- Anyone can contribute. 
+- We are a community of builders and researchers who accept everyone and anyone.
+- Content shall be professional, authentic, and valid when applicable. 
 
-## How
 
-This repository contains an [Obsidian Vault](https://obsidian.md/) that uses linking, tags, and graph theory to build a much larger picture regarding non-earth originating species, technology, and other. You do not have to be an engineer to use this repository or contribute to its content. I've curated a few templates that we can start using as well as iterate and change as needed. 
+## What Is This?
+
+[Obsidian](https://obsidian.md/) allows us to Tag, Link, and aggregate data together to find trends and commonalities as well as easily search for related content by simply writing notes in [Markdown](https://www.markdownguide.org/cheat-sheet/) (see the [[Markdown-Cheat-Sheet.pdf]]). It uses [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory) to map relationships between objects commonly known as "Nodes". For example, in the image below we can see the following relationships:
+
+(Person) **EBOscientistA** wrote (Intelligence) **Reddit Post** article in which (Person) **Gary Nolan** commented on and (Person) **Bob Lazar** has similar intelligence on. 
+
+<img src="https://publish-01.obsidian.md/access/1c31a6f93f82a49b0a9eb31193d6cdec/_images/graph.png" style="border:1px solid #000000; border-radius: 10px">
+
+To date, we have the following Nodes to which we map relationships between:
+
+- **Person** - a single unique individual
+- **Organizations** - Companies, Governments, non-profits, think tanks, etc. 
+- **Evidence** - Verifiable evidence that can be substantiated
+- **Intelligence** - Any intelligence relating to our topics regardless of validity.
+- **Analysis** - Any analysis conducted against an incident, intelligence, or other.
+
+
+
+## Why Do We Need This?
+
+1. To build a single comprehensive dataset that anyone can use and understand.
+2. To consolidate information (Open Source) using accepted methods and practices adding additional validity to claims.
+3. To enable interested parties who don't know where to start by teaching and communicating.
+4. To utilize the community as a whole to scale the content making it even more impactful.
+
+
 
 ## Contribution and Management
 
-1. All content for the site will be pulled from this git repository and therefore the git repository is the "Source of Truth".
-2. Content submissions need to scale which means we want a balance of content scrutiny but limited friction to contribute. Currently, it's just me and I will need additional heads to also review content submissions. Potentially r/Aliens, r/UFOs mods? I'm not sure at this point. 
-3. The content will be updated as new information is pushed and will be viewable by anyone at https://publish.obsidian.md/aliengraph
+Contributors can use any of the following methods to add/edit content to this site:
 
-### [Basic] How to Add Content
+1. Add/Update content in our [Google Drive](https://drive.google.com/drive/folders/1rW9VIYTgfVLnhr4b3WvdblpY69D5JeVQ?usp=sharing)
+2. Create Pull requests on  [our git repository](https://github.com/aGuyOverThere/AlienGraph).
+3. Send us a Email at alienanalyzer@gmail.com
 
-1. In any text editor (We obviously recommend [Obsidian](https://obsidian.md/)) create your content of choice in the appropriate folder (Analysis, Intelligence, Person, Evidence, docs) from a given template, if a template is necessary, located in the `_tempaltes` directory.
-2. Save your Markdown file and send it to me in one of the following methods:
-	1. Email me the content/links/docs at alienanalyzer@gmail.com
-	2. [PENDING APPROVAL FROM DISCORD MODS] Add content to the [r/Aliens Discord](https://discord.gg/KKGAwD4H) with the `#AlienGraph` tag. 
+For those who like to help out with GitHub or Content moderation, please reach out via alienanalyzer@gmail.com. 
 
-----
 
-### [Technical] How to Add Content
-
-Currently, we will use [Git](https://docs.github.com/en/get-started/using-git) to manage additions, deletions, and changes. Here are the steps to add content:
+## How Do I Start Editing?
 
 **Install Necessary Tools:**
 1. Download and install [Obsidian](https://obsidian.md/)
-2. Download and install [Git](https://github.com/git-guides/install-git)
+2. Sync your Drive to our  [Google Drive](https://drive.google.com/drive/folders/1rW9VIYTgfVLnhr4b3WvdblpY69D5JeVQ?usp=sharing) and use this as your Obsidian Vault.
+3. Use or adjust the `_templates` to write/document.
+4. Upload docs to Google Drive **or** send us an email **or** make a pull request on GitHub.
+**OR**
+1. [Optional] Download and install [Git](https://github.com/git-guides/install-git)
+2. [Optional] `git clone https://github.com/aGuyOverThere/AlienGraph.git`
+3. [Optional] Use the git repo as your Obsidian Vault
 
-**Clone the Repository**
-1. `git clone https://github.com/aGuyOverThere/AlienGraph.git`
-2. Open Obsidian and Open Folder as Vault
-![](https://github.com/aGuyOverThere/AlienGraph/blob/main/_images/Pasted%20image%2020230707124407.png)
-
-3. [OPTIONAL] I use several obsidian plugins to make my life easier. You do not have to use them however, they are wonderful and make generating notes much more simple. Here are the Plugins I am using for temptation:
-	1. https://github.com/SilentVoid13/Templater
-	2. https://github.com/blacksmithgu/obsidian-dataview
-	3. **To Install**:
-		1. Settings --> Community Plugins --> Browse --> Search for the plugin name and install. 
-4. Add new content (Files, Images, Documents, Analysis, Evidence, Intelligence, etc.) and save it. 
-5. Create a Pull request to be reviewed and once approved it will be merged into Main.

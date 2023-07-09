@@ -10,9 +10,17 @@ An Obsidian repository for non-earth originating research and analysis.
 </strong>
 </center>
 
+## Tenets
+
+- All content added will be 100% Open Source and can be freely replicated by any party.
+- Anyone can contribute. 
+- We are a community of builders and researchers who accept everyone and anyone.
+- Content shall be professional, authentic, and valid when applicable. 
+
+
 ## What Is This?
 
-[Obsidian](https://obsidian.md/) allows us to Tag, Link, and aggregate data together to find trends and commonalities as well as easily search for related content. It uses [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory) to map relationships between objects commonly known as "Nodes". For example, in the image below we can see the following relationships:
+[Obsidian](https://obsidian.md/) allows us to Tag, Link, and aggregate data together to find trends and commonalities as well as easily search for related content by simply writing notes in [Markdown](https://www.markdownguide.org/cheat-sheet/) (see the [[Markdown-Cheat-Sheet.pdf]]). It uses [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory) to map relationships between objects commonly known as "Nodes". For example, in the image below we can see the following relationships:
 
 (Person) **EBOscientistA** wrote (Intelligence) **Reddit Post** article in which (Person) **Gary Nolan** commented on and (Person) **Bob Lazar** has similar intelligence on. 
 
@@ -26,7 +34,7 @@ To date, we have the following Nodes to which we map relationships between:
 - **Intelligence** - Any intelligence relating to our topics regardless of validity.
 - **Analysis** - Any analysis conducted against an incident, intelligence, or other.
 
-----
+
 
 ## Why Do We Need This?
 
@@ -35,15 +43,7 @@ To date, we have the following Nodes to which we map relationships between:
 3. To enable interested parties who don't know where to start by teaching and communicating.
 4. To utilize the community as a whole to scale the content making it even more impactful.
 
-----
 
-## Tenets
-
-- All content added will be 100% Open Source and can be freely replicated by any party.
-- A community of builders and researchers who accept everyone and anyone.
-- Content shall meet a certain threshold of professionalism, authenticity, and validity when necessary. 
-
-----
 
 ## Contribution and Management
 
@@ -51,11 +51,20 @@ Contributors can use any of the following methods to add/edit content to this si
 
 1. Add/Update content in our [Google Drive](https://drive.google.com/drive/folders/1rW9VIYTgfVLnhr4b3WvdblpY69D5JeVQ?usp=sharing)
 2. Create Pull requests on  [our git repository](https://github.com/aGuyOverThere/AlienGraph).
-3. 
+3. Send us a Email at alienanalyzer@gmail.com
 
-4. All content for the site will be pulled from [our git repository](https://github.com/aGuyOverThere/AlienGraph) and therefore the git repository is the "Source of Truth".
-5. Content submissions need to scale which means we want a balance of content scrutiny but limited friction to contribute.
+For those who like to help out with GitHub or Content moderation, please reach out via alienanalyzer@gmail.com. 
 
-## Contact
 
-- alienanalyzer@gmail.com
+## How Do I Start Editing?
+
+**Install Necessary Tools:**
+1. Download and install [Obsidian](https://obsidian.md/)
+2. Sync your Drive to our  [Google Drive](https://drive.google.com/drive/folders/1rW9VIYTgfVLnhr4b3WvdblpY69D5JeVQ?usp=sharing) and use this as your Obsidian Vault.
+3. Use or adjust the `_templates` to write/document.
+4. Upload docs to Google Drive **or** send us an email **or** make a pull request on GitHub.
+**OR**
+1. [Optional] Download and install [Git](https://github.com/git-guides/install-git)
+2. [Optional] `git clone https://github.com/aGuyOverThere/AlienGraph.git`
+3. [Optional] Use the git repo as your Obsidian Vault
+
