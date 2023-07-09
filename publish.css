@@ -559,7 +559,7 @@ thead {
 .graph-view-container {
     border: none;
     box-shadow: none;
-    background-color: transparent;
+    background-color: var(--background-primary-alt);
     outline: var(--text-accent) solid 1px;
 }
 

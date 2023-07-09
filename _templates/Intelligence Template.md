@@ -20,7 +20,7 @@ author:
 
 ## Summary
 
-Summarize the information in just a few sentences.
+Summarize the information in just a few sentences,
 
 ## Claims and Assertions
 

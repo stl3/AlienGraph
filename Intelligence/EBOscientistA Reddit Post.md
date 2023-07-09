@@ -32,7 +32,8 @@ Ad-hoc efforts to understand the credibility and technical validity of the claim
 
 ## Claims and Assertions
 
-What is the intelligence stating? Do we have evidence for such claims/assertions? 
+- What is the intelligence stating? 
+- Do we have evidence for such claims/assertions? 
 
 ## Open Questions
 
