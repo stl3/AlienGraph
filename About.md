@@ -13,7 +13,7 @@ An Obsidian repository for non-earth originating research and analysis.
 ## Tenets
 
 - All content added will be 100% Open Source and can be freely replicated by any party.
-- Anyone can contribute. 
+- Democratize and Centralize information and data. 
 - We are a community of builders and researchers who accept everyone and anyone.
 - Content shall be professional, authentic, and valid when applicable. 
 
