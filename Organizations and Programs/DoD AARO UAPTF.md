@@ -15,7 +15,7 @@ author: aGuyOverThere
 - **Head Quarters:** Langley, Virginia
 - **President/CEO:** [[Sean M. Kirkpatrick]]
 - **Incorporated/Established Date:** July 20th, 2022
-- **Type:** U.S. Government
+- **Type:** #government 
 	- **Parent Office**: Office of the Secretary of Defense
 
 ## Mission

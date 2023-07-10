@@ -18,7 +18,6 @@ author:
 - **Date of Birth**: [DOB, if available]
 - **Nationality**: [Nationality or country of origin]
 - **Occupation**: [Person's occupation or profession]
-- **Social Media Profiles**: [List of known social media profiles and handles]
 
 ## Background
 

@@ -18,7 +18,7 @@ author: aGuyOverThere
 	- Operator: United States Air Force
 	- Controller: Air Force Material Command
 - **Incorporated/Established Date:**
-- **Type:** [government, non-profit, think-tank, government contractor, etc.]
+- **Type:** #government 
 
 ## Mission
 
@@ -31,7 +31,3 @@ Area 51 is the common name of a highly classified United States Air Force (USAF)
 - **D-21 Tagboard** - Following the loss of [Gary Powers](https://en.wikipedia.org/wiki/Gary_Powers "Gary Powers")' [U-2](https://en.wikipedia.org/wiki/Lockheed_U-2 "Lockheed U-2") over the Soviet Union, there were several discussions about using the A-12 OXCART as an unpiloted drone aircraft. The Air Force agreed to fund the study of a high-speed, high-altitude drone aircraft in October 1962. The Air Force interest seems to have moved the CIA to take action, the project designated "Q-12". To separate it from the other A-12-based projects, it was renamed the "D-21". (The "12" was reversed to "21"). "Tagboard" was the project's code name.
 - **Foreign Technology Evaluation** - During the [Cold War](https://en.wikipedia.org/wiki/Cold_War "Cold War"), one of the missions carried out by the United States was the test and evaluation of captured [Soviet](https://en.wikipedia.org/wiki/Soviet_Union "Soviet Union") fighter aircraft. Beginning in the late 1960s, and for several decades, Area 51 played host to an assortment of Soviet-built aircraft.
 - **Have Blue/F-117 program** - The [Lockheed Have Blue](https://en.wikipedia.org/wiki/Lockheed_Have_Blue "Lockheed Have Blue") prototype stealth fighter (a smaller proof-of-concept model of the [F-117 Nighthawk](https://en.wikipedia.org/wiki/F-117_Nighthawk "F-117 Nighthawk"))
-
-## Online Presence
-
-- Link

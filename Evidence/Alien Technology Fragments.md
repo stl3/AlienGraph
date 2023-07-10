@@ -13,7 +13,7 @@ author: aGuyOverThere
 
 ## Overview
 
-- **Source**: https://www.cbsnews.com/boston/news/avi-loeb-harvard-professor-alien-technology-fragments/
+- **Source**: [CBS News](https://www.cbsnews.com/boston/news/avi-loeb-harvard-professor-alien-technology-fragments/)
 - **Author**: [[Avi Loeb]]
 - **Date First Seen**: 07/07/2023
 - **Classification**:  #webpage
