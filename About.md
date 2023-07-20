@@ -60,9 +60,10 @@ For those who like to help out with GitHub or Content moderation, please reach o
 
 **Install Necessary Tools:**
 1. Download and install [Obsidian](https://obsidian.md/)
-2. Sync your Drive to our  [Google Drive](https://drive.google.com/drive/folders/1rW9VIYTgfVLnhr4b3WvdblpY69D5JeVQ?usp=sharing) and use this as your Obsidian Vault.
-3. Use or adjust the `_templates` to write/document.
-4. Upload docs to Google Drive **or** send us an email **or** make a pull request on GitHub.
+2. Read [[Setup Obsidian]]
+3. Sync your Drive to our  [Google Drive](https://drive.google.com/drive/folders/1rW9VIYTgfVLnhr4b3WvdblpY69D5JeVQ?usp=sharing) and use this as your Obsidian Vault.
+4. Use or adjust the `_templates` to write/document.
+5. Upload docs to Google Drive **or** send us an email **or** make a pull request on GitHub.
 **OR**
 1. [Optional] Download and install [Git](https://github.com/git-guides/install-git)
 2. [Optional] `git clone https://github.com/aGuyOverThere/AlienGraph.git`
