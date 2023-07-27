@@ -8,9 +8,11 @@
 An Obsidian repository for non-earth originating research and analysis.
 </p>
 </strong>
+<a href="https://aliengraph.wiki">https://aliengraph.wiki</a>
 </center>
 
-## TenetsMTB size small
+
+## Tenets
 
 - All content added will be 100% Open Source and can be freely replicated by any party.
 - Democratize and Centralize information and data. 
