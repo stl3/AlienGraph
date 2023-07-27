@@ -37,7 +37,7 @@ To date, we have the following Nodes to which we map relationships between:
 
 ## Trust Scoring
 
-We understand that much of this information can be subjective and qualitative. As such, we've [created a a trust scoring model](https://docs.google.com/spreadsheets/d/1CUarxE7P1cPwgWXwJzzeWnZGm1c6Wp2Ttazdt3VPM_s/edit?pli=1#gid=0) that is applied to much of the content on this site and each writeup/piece of content will have an associated "Trust Score" at the top of the page. For more information, see [[Trust Scores]].
+We understand that much of this information can be subjective and qualitative. As such, we've [created a trust scoring model](https://docs.google.com/spreadsheets/d/1CUarxE7P1cPwgWXwJzzeWnZGm1c6Wp2Ttazdt3VPM_s/edit?pli=1#gid=0) that is applied to much of the content on this site and each writeup/piece of content will have an associated "Trust Score" at the top of the page. For more information, see [[Trust Scores]].
 
 ## Why Do We Need This?
 
