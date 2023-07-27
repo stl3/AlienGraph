@@ -52,6 +52,3 @@ He [heavily advocates](https://www.youtube.com/watch?v=x4-JfM4rkRY) for the tran
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x4-JfM4rkRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Notes
-
-[Add any additional notes or observations regarding the person of interest.]

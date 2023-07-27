@@ -19,6 +19,12 @@ author: aGuyOverThere
 - **Nationality**: U.S.A
 - **Occupation**: Academic - Stanford Medicine, Founder of Ndality inc. and Apprise Biotech.
 	- https://med.stanford.edu/profiles/garry-nolan
+- **Trust Score:** 48/50 - <span style="color: limegreen;">HIGH</span>
+
+<details>
+<summary><b>Trust Score Analysis</b></summary>
+<IMG src="https://publish-01.obsidian.md/access/1c31a6f93f82a49b0a9eb31193d6cdec/_images/Gary_Nolan_Trust_Score.png" alt="Trust Score"/>
+</details>
 
 ## Background
 
@@ -47,9 +53,7 @@ author: aGuyOverThere
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uTCc2-1tbBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bb1cuYU09Ck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e2DqdOw6Uy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rx2x_w5wimk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Notes
 
@@ -61,5 +65,5 @@ Nolan is the lead author of the first study published in a peer-reviewed journal
 
 Nolan appeared on Fox News' _[Tucker Carlson Tonight](https://en.wikipedia.org/wiki/Tucker_Carlson_Tonight "Tucker Carlson Tonight") show on August 1st 2022, during which he discussed his UAP related research in an hour long interview.
 
-Nolan said that he gives the probability as "100 percent" that extraterrestrials have not only visited Earth but have been visiting earth for a long time. He also shared his speculation that what has visited earth are simply "emissaries" and possibly drones, but that they are regular occurrences and that some governments have retrieved artifacts from these extraterrestrial craft. This was shared during a SALT iConnections conference in Manhattan in May of 2023 during an interview with Alex Klokus titled "The Pentagon, Extraterrestrial Intelligence and Crashed UFOs". As _[New York Times](https://en.wikipedia.org/wiki/New_York_Times "New York Times")_ columnist [Ezra Klein](https://en.wikipedia.org/wiki/Ezra_Klein "Ezra Klein") interviewed journalist and UFO author [Leslie Kean](https://en.wikipedia.org/wiki/Leslie_Kean "Leslie Kean") in June 2023, Kean told Klein that Nolan "knows [David Grusch](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims "David Grusch UFO whistleblower claims") very well and vouches for him".
+Nolan said that he gives the probability as "100 percent" that extraterrestrials have not only visited Earth but have been visiting earth for a long time. He also shared his speculation that what has visited earth are simply "emissaries" and possibly drones, but that they are regular occurrences and that some governments have retrieved artifacts from these extraterrestrial craft. This was shared during a SALT iConnections conference in Manhattan in May of 2023 during an interview with Alex Klokus titled "The Pentagon, Extraterrestrial Intelligence and Crashed UFOs". As _[New York Times](https://en.wikipedia.org/wiki/New_York_Times "New York Times")_ columnist [Ezra Klein](https://en.wikipedia.org/wiki/Ezra_Klein "Ezra Klein") interviewed journalist and UFO author [Leslie Kean](https://en.wikipedia.org/wiki/Leslie_Kean "Leslie Kean") in June 2023, Kean told Klein that Nolan "knows [[David Grusch]] very well and vouches for him".
 

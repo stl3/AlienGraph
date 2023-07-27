@@ -10,7 +10,7 @@ An Obsidian repository for non-earth originating research and analysis.
 </strong>
 </center>
 
-## Tenets
+## TenetsMTB size small
 
 - All content added will be 100% Open Source and can be freely replicated by any party.
 - Democratize and Centralize information and data. 

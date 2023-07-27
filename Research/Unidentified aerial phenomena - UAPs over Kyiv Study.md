@@ -19,7 +19,7 @@ author: aGuyOverThere
 	- https://www.researchgate.net/publication/369529382_Unidentified_aerial_phenomena_UAPs_over_Kyiv
 - **Topic**: Study into UAP Activity
 - **Author**: [[Boris Ephimovich Zhilyaev]]
-- **Date of Research: March 2023
+- **Date of Research**: March 2023
 - **Validity**: #not-peer-reviewed
 
 ## Summary

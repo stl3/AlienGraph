@@ -16,7 +16,12 @@ author: aGuyOverThere
 - **Source**:  [[EBOscientistA Reddit Post 7-5-23.pdf]]
 - **Topic**: U.S. Government Program to study Exo-Biospheric-Organisms (EBO)
 - **Author**: [[EBOscientistA]]
-- **Validity**: #Work-In-Progress
+- **Trust Score:** 21/50 - <span style="color: red;">LOW</span>
+
+<details>
+<summary><b>Trust Score Analysis</b></summary>
+<IMG src="https://publish-01.obsidian.md/access/1c31a6f93f82a49b0a9eb31193d6cdec/_images/EBOScientistA_Trust_Score.png" alt="Trust Score"/>
+</details>
 
 ## Summary
 

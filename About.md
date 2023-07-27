@@ -32,9 +32,11 @@ To date, we have the following Nodes to which we map relationships between:
 - **Organizations** - Companies, Governments, non-profits, think tanks, etc. 
 - **Evidence** - Verifiable evidence that can be substantiated
 - **Intelligence** - Any intelligence relating to our topics regardless of validity.
-- **Analysis** - Any analysis conducted against an incident, intelligence, or other.
+- **Research** - Any research/analysis conducted against an incident, intelligence, or other.
 
+## Trust Scoring
 
+We understand that much of this information can be subjective and qualitative. As such, we've [created a a trust scoring model](https://docs.google.com/spreadsheets/d/1CUarxE7P1cPwgWXwJzzeWnZGm1c6Wp2Ttazdt3VPM_s/edit?pli=1#gid=0) that is applied to much of the content on this site and each writeup/piece of content will have an associated "Trust Score" at the top of the page. For more information, see [[Trust Scores]].
 
 ## Why Do We Need This?
 
@@ -42,7 +44,6 @@ To date, we have the following Nodes to which we map relationships between:
 2. To consolidate information (Open Source) using accepted methods and practices adding additional validity to claims.
 3. To enable interested parties who don't know where to start by teaching and communicating.
 4. To utilize the community as a whole to scale the content making it even more impactful.
-
 
 
 ## Contribution and Management

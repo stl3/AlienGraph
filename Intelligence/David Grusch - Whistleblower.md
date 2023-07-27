@@ -17,7 +17,12 @@ author: aGuyOverThere
 - **Topic**: U.S. Government have UAPs as deceased non-human pilots
 - **Author**: Whistleblower is[[David Grusch]], article author is [Leslie Kean](https://en.wikipedia.org/wiki/Leslie_Kean) and [Ralph Blumenthal](https://en.wikipedia.org/wiki/Ralph_Blumenthal)
 - **Date of Intelligence**: June 5th, 2023
-- **Validity**: #Work-In-Progress 
+- **Trust Score**:  <span style="color: limegreen;">HIGH</span>
+
+<details>
+<summary><b>Trust Score Analysis</b></summary>
+<IMG src="https://publish-01.obsidian.md/access/1c31a6f93f82a49b0a9eb31193d6cdec/_images/Grusch_Trust_Score.png" alt="Trust Score"/>
+</details>
 
 ## Summary
 

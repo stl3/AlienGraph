@@ -18,6 +18,12 @@ author: aGuyOverThere
 - **Date of Birth**: N/A, Born in Pittsburgh, PA
 - **Nationality**: U.S.A
 - **Occupation**: Former [[United States Air Force]] Intelligence Officer
+ **Trust Score:** 46/50 - <span style="color: limegreen;">HIGH</span>
+
+<details>
+<summary><b>Trust Score Analysis</b></summary>
+<IMG src="https://publish-01.obsidian.md/access/1c31a6f93f82a49b0a9eb31193d6cdec/_images/David_Grusch_Trust_Score.png" alt="Trust Score"/>
+</details>
 
 ## Background
 

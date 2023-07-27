@@ -19,12 +19,18 @@ author: aGuyOverThere
 - **Date of Birth**: N/A
 - **Nationality**: U.S.
 - **Occupation**: President of DMF Consulting - Aerospace consultant
+ **Trust Score:** 49/50 - <span style="color: limegreen;">HIGH</span>
+
+<details>
+<summary><b>Trust Score Analysis</b></summary>
+<IMG src="https://publish-01.obsidian.md/access/1c31a6f93f82a49b0a9eb31193d6cdec/_images/David_Fravor_Trust_Score.png" alt="Trust Score"/>
+</details>
 
 ## Background
 
 - **Biography**: 
 
-Retired Navy Commander of the [[VFA-41 - Black Aces]].
+Retired [[United States Navy]] Commander of the [[VFA-41 - Black Aces]]. Was one of the four (4) pilots who intercepted and experienced the [[Tic-Tac Incident]]. Mr. Fravor has given public testimony of this incident and implications of #UAP in general during the [[July 26th, 2023 - House Oversight Committee Hearing]]. 
 
 - **Education**: 
 	- MBA - University of Houston, 2014-2016

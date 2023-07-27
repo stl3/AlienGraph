@@ -18,6 +18,12 @@ author:
 - **Date of Birth**: [DOB, if available]
 - **Nationality**: [Nationality or country of origin]
 - **Occupation**: [Person's occupation or profession]
+- **Trust Score:** [Google Sheets Scoring Matrix](https://docs.google.com/spreadsheets/d/1CUarxE7P1cPwgWXwJzzeWnZGm1c6Wp2Ttazdt3VPM_s/edit?usp=sharing)
+
+<details>
+<summary><b>Trust Score Analysis</b></summary>
+<IMG src="https://publish-01.obsidian.md/access/1c31a6f93f82a49b0a9eb31193d6cdec/_images/" alt="Trust Score"/>
+</details>
 
 ## Background
 

@@ -22,11 +22,11 @@ author: aGuyOverThere
 - **Location**:
 	- 2004 - Coast of Southern California.
 	- 2015 - East Coast of the United States
-	- 2019 -  Unknown
+	- 2019 - Unknown
 
 ## Summary
 
-The U.S. Department of Defense and the U.S. Navy [have made public](https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/through) both FIOA requests and leaks from airmen and sailors video and testimony of UAP activity. Some of which was ad-hoc in which pilots saw and tracked UAP objects while another incident where 2-3 UAP objects analyzed a U.S. Carrier Group for ~2 hours. 
+The U.S. Department of Defense and the [[United States Navy]] [have made public](https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/through) both FIOA requests and leaks from airmen and sailors video and testimony of UAP activity. Some of which was ad-hoc in which pilots saw and tracked UAP objects while another incident where 2-3 UAP objects analyzed a U.S. Carrier Group for ~2 hours. 
 
 - **2004** - Fighter pilot Commander David Fravor of the [USS _Nimitz_ Carrier Strike Group](https://en.wikipedia.org/wiki/USS_Nimitz#Nimitz_Carrier_Strike_Group "USS Nimitz") claims to have investigated radar indications of a possible target off the coast of [southern California](https://en.wikipedia.org/wiki/Southern_California "Southern California"). Fravor said the operator had told him that the [USS _Princeton_ (CG-59)](https://en.wikipedia.org/wiki/USS_Princeton_(CG-59) "USS Princeton (CG-59)"), part of the strike group, had been tracking unusual aircraft for two weeks prior to the incident. The aircraft would appear at 80,000 feet (24,000 m) before descending rapidly toward the sea, and stopping at 20,000 feet (6,100 m) and hovering. Fravor reported that he saw an object, white and oval, hovering above an ocean disturbance
 - **2015** - During 2014–2015, fighter pilots associated with the [USS _Theodore Roosevelt_](https://en.wikipedia.org/wiki/USS_Theodore_Roosevelt_(CVN-71) "USS Theodore Roosevelt (CVN-71)") [carrier strike group](https://en.wikipedia.org/wiki/Carrier_strike_group "Carrier strike group") were operating off the [East Coast of the United States](https://en.wikipedia.org/wiki/East_Coast_of_the_United_States "East Coast of the United States") when they recorded the GIMBAL and GOFAST videos while reporting instrument detections of unknown aerial objects which the pilots were unable to identify.

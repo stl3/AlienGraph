@@ -18,6 +18,12 @@ author: aGuyOverThere
 - **Date of Birth**: January 26th, 1959
 - **Nationality**: U.S.
 - **Occupation**: Self-Employed (Chemical sales)
+- **Trust Score:** 25/50 - <span style="color: red;">LOW</span>
+
+<details>
+<summary><b>Trust Score Analysis</b></summary>
+<IMG src="https://publish-01.obsidian.md/access/1c31a6f93f82a49b0a9eb31193d6cdec/_images/Robert_Lazar_Trust_Score.png" alt="Trust Score"/>
+</details>
 
 ## Background
 
