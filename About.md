@@ -6,6 +6,7 @@
 <strong>
 <p style="font-size:120%">
 An Obsidian repository for non-earth originating research and analysis.
+<a href="https://discord.gg/MJzQGzPGSG">https://discord.gg/MJzQGzPGSG</a>
 </p>
 </strong>
 </center>
